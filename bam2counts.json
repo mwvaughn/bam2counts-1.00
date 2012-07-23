@@ -1,0 +1,16 @@
+{"components":[
+    {"name":"bam2counts.sh",
+     "location":"/usr/local3/bin/bam2counts-1.00",
+     "type":"executable",
+     "description":"RNAseq BAM to counts file",
+   "version":"1.00",
+     "attribution":"RNAseq BAM and annotation GFF to generate per-transcript read counts",
+     "implementation":
+    {"implementor_email":"vaughn@iplantcollaborative.org",
+     "implementor":"vaughn",
+     "test":
+        {"params":[]}}}
+     ],
+ "templates":[],
+ "analyses":[]
+}

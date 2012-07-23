@@ -1,0 +1,16 @@
+{"components":[
+    {"name":"gff2nr_exon.sh",
+     "location":"/usr/local3/bin/bam2counts-1.00",
+     "type":"executable",
+     "description":"Generate non-redundant BED of exons from a GFF annotation",
+   "version":"1.00",
+     "attribution":"Generate BED of exons from a GFF annotation",
+     "implementation":
+    {"implementor_email":"vaughn@iplantcollaborative.org",
+     "implementor":"vaughn",
+     "test":
+        {"params":[]}}}
+     ],
+ "templates":[],
+ "analyses":[]
+}
